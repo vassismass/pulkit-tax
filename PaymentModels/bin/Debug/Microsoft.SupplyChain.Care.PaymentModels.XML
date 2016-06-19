@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.SupplyChain.Care.PaymentModels</name>
+    </assembly>
+    <members>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.Address.Country">
+            <summary>
+            Country 
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.Address.StateOrProvince">
+            <summary>
+            StateOrProvince
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.Address.City">
+            <summary>
+            City
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.Address.Address1">
+            <summary>
+            AddressLine1
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.Address.Address2">
+            <summary>
+            AddressLine2
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.Address.PostalCode">
+            <summary>
+            PostalCode
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.LineItem.PaymentSku">
+            <summary>
+            Revenuse incase of LineItem and Expense in Case of Shipping
+            </summary>
+        </member>
+        <member name="T:Microsoft.SupplyChain.Care.PaymentModels.PaymentIdentity">
+            <summary>
+            Names of the properties exposed for Payment Identity
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PaymentIdentity.PaymentInstrumentId">
+            <summary>
+            Gets or sets the payment InstrumentID.Mandatory when PaymentGateway is CP
+            </summary>
+            <value>PaymentInstrumentId</value>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PaymentIdentity.AccountId">
+            <summary>
+            Gets or sets the payment AccountID . Required when PaymentGateway is CP
+            </summary>
+            <value>AccountID</value>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PaymentIdentity.IdentityType">
+            <summary>
+            Gets or sets the IdentityType
+            </summary>
+            <value>IdentityType</value>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PaymentIdentity.Puid">
+            <summary>
+            Gets or sets the Puid
+            </summary>
+            <value>Puid</value>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PaymentIdentity.CustomerId">
+            <summary>
+            Gets or sets the Customer ID
+            </summary>
+            <value>Puid</value>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PaymentIdentity.GuestId">
+            <summary>
+            Gets or sets the Geust ID
+            </summary>
+            <value>Geust ID</value>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PhoneNumber.AreaCode">
+            <summary>
+            AreaCode
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PhoneNumber.CountryCode">
+            <summary>
+            CountryCode
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PhoneNumber.Extension">
+            <summary>
+            Extension
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.PhoneNumber.Number">
+            <summary>
+            Number
+            </summary>
+        </member>
+        <member name="T:Microsoft.SupplyChain.Care.PaymentModels.TaxEntry">
+            <summary>
+            Names of the properties exposed by the Payment entity.
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.TaxInfo.TotalAmoutWithoutTax">
+            <summary>
+            Repair Offer Price 
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.TaxInfo.TotalAmount">
+            <summary>
+            Total amount includingTax and excluding extended price
+            </summary>
+        </member>
+        <member name="T:Microsoft.SupplyChain.Care.PaymentModels.TaxRequest">
+            <summary>
+            Names of the properties exposed by the Payment entity.
+            </summary>
+        </member>
+        <member name="P:Microsoft.SupplyChain.Care.PaymentModels.TaxRequest.SKUInfo">
+            <summary>
+            Payment Details
+            </summary>
+        </member>
+    </members>
+</doc>

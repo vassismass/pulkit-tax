@@ -1,0 +1,5 @@
+C:\Users\t-pugoe\Documents\My_Project\Payment\PaymentModels\bin\x64\Debug\Microsoft.SupplyChain.Care.PaymentModels.dll
+C:\Users\t-pugoe\Documents\My_Project\Payment\PaymentModels\bin\x64\Debug\Microsoft.SupplyChain.Care.PaymentModels.pdb
+C:\Users\t-pugoe\Documents\My_Project\Payment\PaymentModels\bin\x64\Debug\Microsoft.SupplyChain.Care.PaymentModels.XML
+C:\Users\t-pugoe\Documents\My_Project\Payment\PaymentModels\obj\x64\Debug\Microsoft.SupplyChain.Care.PaymentModels.dll
+C:\Users\t-pugoe\Documents\My_Project\Payment\PaymentModels\obj\x64\Debug\Microsoft.SupplyChain.Care.PaymentModels.pdb

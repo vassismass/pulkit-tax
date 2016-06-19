@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Brands>
+  <Brand name="Xbox">
+    <!--EMEA Xbox-->
+    <ShipToCountry name ="GBR,FRA,ALA,MAF,AND,GGY,CYP,FRO,EST,GUF,PYF,LIE,MLT,MTQ,GIB,ISR,NCL,REU,RUS,BLM,SAU,TUR,ITA,PRT,ESP,IRL,LTU,GLP,DEU,AUT,BEL,DNK,FIN,NLD,NOR,SWE,CHE,HUN,POL,CZE,GRC,GRL,LUX,MCO,SVK,ARE">
+      <Country>CZ</Country>
+      <CountryCode>CZ</CountryCode>
+      <City>Ricany-Jazlovice</City>
+      <State></State>
+      <PostalCode>25101</PostalCode>
+      <Address1>Teleplan Prag SRO, NA Dlouhem 88</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <!--LATAM-->
+    <ShipToCountry name ="BOL,CRI,GTM,ECU,PAN,URY,PER,VEN">
+      <Country>MEX</Country>
+      <CountryCode>MX</CountryCode>
+      <City>Zapopan</City>
+      <State>JAL</State>
+      <PostalCode>45236</PostalCode>
+      <Address1>iQor - Anastasio Bustamante 76-6, Francisco Sarabia</Address1>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="ARG,COL,CHL,MEX,BRA">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+
+    <ShipToCountry name ="USA">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="CAN">
+      <Country>CAN</Country>
+      <CountryCode>CA</CountryCode>
+      <City>Burlington</City>
+      <State>ON</State>
+      <PostalCode>L7L 0A6</PostalCode>
+      <Address1>4056 Mainway, Building 1, Burlington, Ontario</Address1>
+      <Address2>Valinhos, SP CEP 13279-452</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+
+    <ShipToCountry name ="AUS">
+      <Country>AUS</Country>
+      <CountryCode>AU</CountryCode>
+      <City>Sydney</City>
+      <State>New South Wales</State>
+      <PostalCode>2019</PostalCode>
+      <Address1>Botany Grove Estate, 14a Baker Street, Botany NSW</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="HKG">
+      <Country>HKG</Country>
+      <CountryCode>HK</CountryCode>
+      <City>Hong Kong</City>
+      <State>Hong Kong</State>
+      <PostalCode />
+      <Address1>6023-6027W, 6/F., Centre B, Berth 3, Kwai Chung Container Terminal, Kwai Chung</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="SGP">
+      <Country>SGP</Country>
+      <CountryCode>SG</CountryCode>
+      <City>Singapore</City>
+      <State></State>
+      <PostalCode>319762</PostalCode>
+      <Address1>620 A Lorong 1 Toa Payoh</Address1>
+      <Address2>TP2 Level 3/4,  Singapore 319762</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="JPN">
+      <Country>JPN</Country>
+      <CountryCode>JP</CountryCode>
+      <City>Tokyo</City>
+      <State>Tokyo</State>
+      <PostalCode>143-0001</PostalCode>
+      <Address1>Global Logistics Property 2F2-1-2,Tokai, Ota-ku, Tokyo</Address1>
+      <Address2/>
+      <Default>true</Default>
+    </ShipToCountry>
+
+    <ShipToCountry name ="NZL">
+      <Country>AUS</Country>
+      <CountryCode>AU</CountryCode>
+      <City>Sydney</City>
+      <State>New South Wales</State>
+      <PostalCode>2019</PostalCode>
+      <Address1>Botany Grove Estate, 14a Baker Street, Botany NSW</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="TWN">
+      <Country>TW</Country>
+      <CountryCode>TW</CountryCode>
+      <City>Taoyuan</City>
+      <State></State>
+      <PostalCode>338</PostalCode>
+      <Address1>No. 1676 Chung Cheng N. Rd., Lu Zu Township</Address1>
+      <Address2></Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="KOR">
+      <Country>KOR</Country>
+      <CountryCode>KR</CountryCode>
+      <City>Seoul</City>
+      <State></State>
+      <PostalCode>464040</PostalCode>
+      <Address1>#442-1 Sam Dong Sam-E Bldg., 6th Floor, Kwangju-City KyungKi-Do</Address1>
+      <Address2></Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="ZAF">
+      <Country>ZAF</Country>
+      <CountryCode>ZA</CountryCode>
+      <City>Johannesburg</City>
+      <State></State>
+      <PostalCode>1609</PostalCode>
+      <Address1>PPowercare 1609</Address1>
+      <Address2>145 Van Riebeeck Avenue,Edenvale,South Africa</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+  </Brand>
+
+  <Brand name="Surface">
+    <ShipToCountry name="USA">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="CAN">
+      <Country>CAN</Country>
+      <CountryCode>CA</CountryCode>
+      <City>Burlington</City>
+      <State>ON</State>
+      <PostalCode>L7L 0A6</PostalCode>
+      <Address1>4056 Mainway, Building 1, Burlington, Ontario</Address1>
+      <Address2>Valinhos, SP CEP 13279-452</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="GBR">
+      <Country>GBR</Country>
+      <CountryCode>GB</CountryCode>
+      <City>Coventry</City>
+      <State>West Midlands</State>
+      <PostalCode>CV3 2TF</PostalCode>
+      <Address1>Progress Close</Address1>
+      <Address2>Leofric Business Park, Coventry</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="DEU">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="NZL">
+      <Country>AUS</Country>
+      <CountryCode>AU</CountryCode>
+      <City>Sydney</City>
+      <State>New South Wales</State>
+      <PostalCode>2019</PostalCode>
+      <Address1>Botany Grove Estate, 14a Baker Street, Botany NSW</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="AUS">
+      <Country>AUS</Country>
+      <CountryCode>AU</CountryCode>
+      <City>Sydney</City>
+      <State>New South Wales</State>
+      <PostalCode>2019</PostalCode>
+      <Address1>Botany Grove Estate, 14a Baker Street, Botany NSW</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="HKG">
+      <Country>HKG</Country>
+      <CountryCode>HK</CountryCode>
+      <City>Hong Kong</City>
+      <State>Hong Kong</State>
+      <PostalCode />
+      <Address1>6023-6027W, 6/F., Centre B, Berth 3, Kwai Chung Container Terminal, Kwai Chung</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="FRA">
+      <Country>FRA</Country>
+      <CountryCode>FR</CountryCode>
+      <City>Saint-Witz</City>
+      <State>Paris (North)</State>
+      <PostalCode>95470</PostalCode>
+      <Address1>Batiment A</Address1>
+      <Address2>Parc d'activites de la Guepelle</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="AUT">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="BEL">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="DNK">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="FIN">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="NLD">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="NOR">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="SWE">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="CHE">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="ITA">
+      <Country>FRA</Country>
+      <CountryCode>FR</CountryCode>
+      <City>Saint-Witz</City>
+      <State>Paris (North)</State>
+      <PostalCode>95470</PostalCode>
+      <Address1>Batiment A</Address1>
+      <Address2>Parc d'activites de la Guepelle</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="PRT">
+      <Country>FRA</Country>
+      <CountryCode>FR</CountryCode>
+      <City>Saint-Witz</City>
+      <State>Paris (North)</State>
+      <PostalCode>95470</PostalCode>
+      <Address1>Batiment A</Address1>
+      <Address2>Parc d'activites de la Guepelle</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="ESP">
+      <Country>FRA</Country>
+      <CountryCode>FR</CountryCode>
+      <City>Saint-Witz</City>
+      <State>Paris (North)</State>
+      <PostalCode>95470</PostalCode>
+      <Address1>Batiment A</Address1>
+      <Address2>Parc d'activites de la Guepelle</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="IRL">
+      <Country>GBR</Country>
+      <CountryCode>GB</CountryCode>
+      <City>Coventry</City>
+      <State>West Midlands</State>
+      <PostalCode>CV3 2TF</PostalCode>
+      <Address1>Progress Close</Address1>
+      <Address2>Leofric Business Park, Coventry</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="JPN">
+      <Country>JPN</Country>
+      <CountryCode>JP</CountryCode>
+      <City>Tokyo</City>
+      <State>Tokyo</State>
+      <PostalCode>143-0001</PostalCode>
+      <Address1>Global Logistics Property 2F2-1-2,Tokai, Ota-ku, Tokyo</Address1>
+      <Address2/>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="PR">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="HUN">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="POL">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="MEX">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="THA">
+      <Country>SGP</Country>
+      <CountryCode>SG</CountryCode>
+      <City>Singapore</City>
+      <State></State>
+      <PostalCode>319762</PostalCode>
+      <Address1>620 A Lorong 1 Toa Payoh</Address1>
+      <Address2>TP2 Level 3/4,  Singapore 319762</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="MYS">
+      <Country>SGP</Country>
+      <CountryCode>SG</CountryCode>
+      <City>Singapore</City>
+      <State></State>
+      <PostalCode>319762</PostalCode>
+      <Address1>620 A Lorong 1 Toa Payoh</Address1>
+      <Address2>TP2 Level 3/4,  Singapore 319762</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="KOR">
+      <Country>KOR</Country>
+      <CountryCode>KR</CountryCode>
+      <City>Seoul</City>
+      <State></State>
+      <PostalCode>464040</PostalCode>
+      <Address1>#442-1 Sam Dong Sam-E Bldg., 6th Floor, Kwangju-City KyungKi-Do</Address1>
+      <Address2></Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="SGP">
+      <Country>SGP</Country>
+      <CountryCode>SG</CountryCode>
+      <City>Singapore</City>
+      <State></State>
+      <PostalCode>319762</PostalCode>
+      <Address1>620 A Lorong 1 Toa Payoh</Address1>
+      <Address2>TP2 Level 3/4,  Singapore 319762</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="TWN">
+      <Country>TW</Country>
+      <CountryCode>TW</CountryCode>
+      <City>Taoyuan</City>
+      <State></State>
+      <PostalCode>338</PostalCode>
+      <Address1>No. 1676 Chung Cheng N. Rd., Lu Zu Township</Address1>
+      <Address2></Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="CZE">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="GRC">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="GRL">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="LUX">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="MCO">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+  </Brand>
+
+  <Brand name="PersonalDevices">
+    <ShipToCountry name="USA">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="CAN">
+      <Country>CAN</Country>
+      <CountryCode>CA</CountryCode>
+      <City>Burlington</City>
+      <State>ON</State>
+      <PostalCode>L7L 0A6</PostalCode>
+      <Address1>4056 Mainway, Building 1, Burlington, Ontario</Address1>
+      <Address2>Valinhos, SP CEP 13279-452</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="GBR">
+      <Country>GBR</Country>
+      <CountryCode>GB</CountryCode>
+      <City>Coventry</City>
+      <State>West Midlands</State>
+      <PostalCode>CV3 2TF</PostalCode>
+      <Address1>Progress Close</Address1>
+      <Address2>Leofric Business Park, Coventry</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="DEU">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="NZL">
+      <Country>AUS</Country>
+      <CountryCode>AU</CountryCode>
+      <City>Sydney</City>
+      <State>New South Wales</State>
+      <PostalCode>2019</PostalCode>
+      <Address1>Botany Grove Estate, 14a Baker Street, Botany NSW</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="AUS">
+      <Country>AUS</Country>
+      <CountryCode>AU</CountryCode>
+      <City>Sydney</City>
+      <State>New South Wales</State>
+      <PostalCode>2019</PostalCode>
+      <Address1>Botany Grove Estate, 14a Baker Street, Botany NSW</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="HKG">
+      <Country>HKG</Country>
+      <CountryCode>HK</CountryCode>
+      <City>Hong Kong</City>
+      <State>Hong Kong</State>
+      <PostalCode />
+      <Address1>6023-6027W, 6/F., Centre B, Berth 3, Kwai Chung Container Terminal, Kwai Chung</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="FRA">
+      <Country>FRA</Country>
+      <CountryCode>FR</CountryCode>
+      <City>Saint-Witz</City>
+      <State>Paris (North)</State>
+      <PostalCode>95470</PostalCode>
+      <Address1>Batiment A</Address1>
+      <Address2>Parc d'activites de la Guepelle</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="AUT">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="BEL">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="DNK">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="FIN">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="NLD">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="NOR">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="SWE">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="CHE">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="ITA">
+      <Country>FRA</Country>
+      <CountryCode>FR</CountryCode>
+      <City>Saint-Witz</City>
+      <State>Paris (North)</State>
+      <PostalCode>95470</PostalCode>
+      <Address1>Batiment A</Address1>
+      <Address2>Parc d'activites de la Guepelle</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="PRT">
+      <Country>FRA</Country>
+      <CountryCode>FR</CountryCode>
+      <City>Saint-Witz</City>
+      <State>Paris (North)</State>
+      <PostalCode>95470</PostalCode>
+      <Address1>Batiment A</Address1>
+      <Address2>Parc d'activites de la Guepelle</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="ESP">
+      <Country>FRA</Country>
+      <CountryCode>FR</CountryCode>
+      <City>Saint-Witz</City>
+      <State>Paris (North)</State>
+      <PostalCode>95470</PostalCode>
+      <Address1>Batiment A</Address1>
+      <Address2>Parc d'activites de la Guepelle</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="IRL">
+      <Country>GBR</Country>
+      <CountryCode>GB</CountryCode>
+      <City>Coventry</City>
+      <State>West Midlands</State>
+      <PostalCode>CV3 2TF</PostalCode>
+      <Address1>Progress Close</Address1>
+      <Address2>Leofric Business Park, Coventry</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="JPN">
+      <Country>JPN</Country>
+      <CountryCode>JP</CountryCode>
+      <City>Tokyo</City>
+      <State>Tokyo</State>
+      <PostalCode>143-0001</PostalCode>
+      <Address1>Global Logistics Property 2F2-1-2,Tokai, Ota-ku, Tokyo</Address1>
+      <Address2/>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="PR">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="HUN">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="POL">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB</PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="MEX">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="THA">
+      <Country>SGP</Country>
+      <CountryCode>SG</CountryCode>
+      <City>Singapore</City>
+      <State></State>
+      <PostalCode>319762</PostalCode>
+      <Address1>620 A Lorong 1 Toa Payoh</Address1>
+      <Address2>TP2 Level 3/4,  Singapore 319762</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="MYS">
+      <Country>SGP</Country>
+      <CountryCode>SG</CountryCode>
+      <City>Singapore</City>
+      <State></State>
+      <PostalCode>319762</PostalCode>
+      <Address1>620 A Lorong 1 Toa Payoh</Address1>
+      <Address2>TP2 Level 3/4,  Singapore 319762</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="KOR">
+      <Country>KOR</Country>
+      <CountryCode>KR</CountryCode>
+      <City>Seoul</City>
+      <State></State>
+      <PostalCode>464040</PostalCode>
+      <Address1>#442-1 Sam Dong Sam-E Bldg., 6th Floor, Kwangju-City KyungKi-Do</Address1>
+      <Address2></Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="SGP">
+      <Country>SGP</Country>
+      <CountryCode>SG</CountryCode>
+      <City>Singapore</City>
+      <State></State>
+      <PostalCode>319762</PostalCode>
+      <Address1>620 A Lorong 1 Toa Payoh</Address1>
+      <Address2>TP2 Level 3/4,  Singapore 319762</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="TWN">
+      <Country>TW</Country>
+      <CountryCode>TW</CountryCode>
+      <City>Taoyuan</City>
+      <State></State>
+      <PostalCode>338</PostalCode>
+      <Address1>No. 1676 Chung Cheng N. Rd., Lu Zu Township</Address1>
+      <Address2></Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="CZE">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="GRC">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="GRL">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="LUX">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name="MCO">
+      <Country>NLD</Country>
+      <CountryCode>NL</CountryCode>
+      <City>Amsterdam</City>
+      <State>North Holland</State>
+      <PostalCode>1119 NB </PostalCode>
+      <Address1>Koolhovenlaan 1</Address1>
+      <Address2>Schiphol-Rijk</Address2>
+      <Default>true</Default>
+    </ShipToCountry>
+  </Brand>
+   <Brand name="Phones">
+    <ShipToCountry name ="AUT,BEL,FRA,DEU,NLD,GBR,LUX,CHE,IRL">
+      <Country>HUN</Country>
+      <CountryCode>HU</CountryCode>
+      <City>Szombathely</City>
+      <State></State>
+      <PostalCode>9700</PostalCode>
+      <Address1>Vásártér u. 1</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+    <ShipToCountry name ="MEX,ARG">
+      <Country>USA</Country>
+      <CountryCode>US</CountryCode>
+      <City>Memphis</City>
+      <State>TN</State>
+      <PostalCode>38118</PostalCode>
+      <Address1>CEVA Logistics. 5166 Pleasant Hill</Address1>
+      <Address2 />
+      <Default>true</Default>
+    </ShipToCountry>
+  </Brand>
+</Brands>
